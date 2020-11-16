@@ -1,5 +1,5 @@
 # Quizzing
-This is a quizzing app which asks you question and grades you according to the answers you have given. 
+This is a quizzing app which asks you questions and grades you according to the answers you have given. 
 ## Languages Used:
 * Dart
 * Objective C
